@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "urls": [
+    {
+      "id": "google",
+      "name": "Google",
+      "url": "https://google.com",
+      "display_url": "https://google.com"
+    },
+    {
+      "id": "github",
+      "name": "GitHub",
+      "url": "https://github.com",
+      "display_url": "https://github.com"
+    }
+  ]
+}
